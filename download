@@ -1,0 +1,5 @@
+# Exclude backend and test files from Vercel static frontend deployment
+server/
+tests/
+docs/
+.agents/
